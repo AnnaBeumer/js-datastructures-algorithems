@@ -1,0 +1,80 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "fibonacci",
+            "program": "${workspaceFolder}/Algorithms/fibonacci.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "twoSum",
+            "program": "${workspaceFolder}/Algorithms/twoSum.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "meanMedianMode",
+            "program": "${workspaceFolder}/Algorithms/meanMedianMode.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "reverseArrayInPlace",
+            "program": "${workspaceFolder}/Algorithms/reverseArrayInPlace.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "caesarCipher",
+            "program": "${workspaceFolder}/Algorithms/caesarCipher.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "isPalindrome",
+            "program": "${workspaceFolder}/Algorithms/isPalindrome.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "reverseWords",
+            "program": "${workspaceFolder}/Algorithms/reverseWords.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "harmLessRansomNote",
+            "program": "${workspaceFolder}/Algorithms/harmLessRansomNote.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "FizzBuzz",
+            "program": "${workspaceFolder}/Algorithms/FizzBuzz.js"
+        },  
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "BST",
+            "program": "${workspaceFolder}/DataStructures/BST.js"
+        },  
+        {      
+            "type": "node",
+            "request": "launch",
+            "name": "RunLinkedList",
+            "program": "${workspaceFolder}/DataStructures/LinkedList.js"
+        },  
+        {      
+            "type": "node",
+            "request": "launch",
+            "name": "HashTable",
+            "program": "${workspaceFolder}/DataStructures/HashTable.js"
+        }
+    ]
+}
